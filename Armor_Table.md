@@ -1,6 +1,5 @@
 # Armor #
-Armor resistance tables should only be used for creation of armor items, armor in use should include resistance numbers as attributes of the item itself as determined by the table. This will allow for Gm's and players to implement advanced mechanics like wear and tear to equipment. Example: A woven leather shirt that has an initial armor value of BL0,SL6,PI2,BA1,MA4; after a serious battle where the shirt has absorbed several hits one could divide the damage absorbed by the mass of teh item and reduce the armor values by such a result. (Disclamer there is no expectation for anyone to use this example in actual game play this is an example of a "house rule" only.)  
-
+Armor Resistance Tables are used for creation of armor items. Armor in use should include the resistence numbers as attributes of the item itself, as deterimed by the tables below. This allows for Game Master and players to implement advanced mechanics, like wear and tear, to equipment.
 							Resistance Modifier Types
 	Material Modifier		Bludgeoning	Slashing	Piercing	Ballistic	Mass
 	----------------------------------------------------------------------------
