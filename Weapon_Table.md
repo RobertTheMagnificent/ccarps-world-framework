@@ -36,7 +36,7 @@
 	Dart							9			3-30ft	50ft	60ft	65ft	STR P
 	Throwing Knife					9			3-30ft	50ft	60ft	65ft	STR+1P
 	Throwing Axe					6			0-15ft	35ft	40ft	45ft	STR+1S
-	Bow								2			0-40ft	60ft	80ft	85ft	STR+3P											  
+	Bow								2			0-40ft	60ft	80ft	85ft	STR+3P
 	Crossbow						2			0-50ft	70ft	90ft	95ft	3
 	Sling							11			0-20ft	40ft	50ft	55ft	DEX+1
 	Atlatl							1			0-35ft	55ft	65ft	70ft	STR+2
