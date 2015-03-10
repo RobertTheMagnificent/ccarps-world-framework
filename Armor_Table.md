@@ -1,5 +1,6 @@
 # Armor #
 Armor Resistance Tables are used for creation of armor items. Armor in use should include the resistence numbers as attributes of the item itself, as deterimed by the tables below. This allows for Game Master and players to implement advanced mechanics, like wear and tear, to equipment.
+
 							Resistance Modifier Types
 	Material Modifier		Bludgeoning	Slashing	Piercing	Ballistic	Mass
 	----------------------------------------------------------------------------
